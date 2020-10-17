@@ -1,4 +1,4 @@
-
+//this will work perfectly unless you have a good hardware
 #include <Servo.h>          
 #include <NewPing.h>        
 
